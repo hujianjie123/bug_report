@@ -1,7 +1,5 @@
 # Online Pet Shop We App v1.0 by oretnom23 has Cross-site scripting (reflected)
 
-Website source address:https://www.sourcecodester.com/php/14839/online-pet-shop-we-app-using-php-and-paypal-free-source-code.html
-
 BUG_Author: hujianjie
 
 Vulnerability File: /pet_shop/admin/orders/update_status.php
